@@ -5,4 +5,7 @@ package com.lifeshs.product.api.dao;
  * Created by dengfeng on 2019/2/28 0028.
  */
 public class TestDao {
+    public static void main(String[] args) {
+        System.out.println("D撒范德萨");
+    }
 }
